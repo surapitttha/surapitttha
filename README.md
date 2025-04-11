@@ -92,7 +92,7 @@
 ### 🧑‍💼 Internship Experience
 
 <div align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUfA3EoBRmcNOz9uYFW-mzcIY6FUh4HqRTig&s" height="100" alt="NCSA Logo" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUfA3EoBRmcNOz9uYFW-mzcIY6FUh4HqRTig&s" height="250" alt="NCSA Logo" />
 </div>
 
 #### **สำนักงานคณะกรรมการการรักษาความมั่นคงปลอดภัยไซเบอร์แห่งชาติ (สกมช. | NCSA)**
