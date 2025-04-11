@@ -1,8 +1,7 @@
-<!-- 🖼 HEADER IMAGE (ขนาดเล็กลง) -->
+<!-- 🖼 HEADER IMAGE -->
 <p align="center">
   <img src="https://sdmntprukwest.oaiusercontent.com/files/00000000-0c04-6243-9399-429752077848/raw?se=2025-04-11T20%3A56%3A11Z&sp=r&sv=2024-08-04&sr=b&scid=e3025310-7a6d-5eae-bc5e-823d3e365058&skoid=d958ec58-d47c-4d2f-a9f2-7f3e03fdcf72&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-10T22%3A22%3A18Z&ske=2025-04-11T22%3A22%3A18Z&sks=b&skv=2024-08-04&sig=2zG4vQpMojg1IGpTmLziw4x7WhyKIBajF2dMXsL84FQ%3D" height="250" alt="Banner" />
 </p>
-
 
 ---
 
@@ -19,7 +18,9 @@
 ---
 
 <!-- 🧰 TECH STACK -->
-<img align="right" height="100" src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" />
+<div align="right">
+  <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" height="100" />
+</div>
 
 ### 🛠️ Tech Stack & Tools
 
@@ -60,26 +61,28 @@
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="28" />
   </a>
 </div>
-<!-- 📊 GITHUB STATS -->
-## 📊 GitHub Stats:
-
-<!-- ภาพรวมภาษา -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=surapitttha&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- สถิติรวมทั้งหมด -->
-![](https://github-readme-stats.vercel.app/api?username=surapitttha&theme=radical&include_all_commits=true&count_private=true&hide_border=false)
-
-<!-- สถิติ streak -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=surapitttha&theme=radical&hide_border=false)
-
-<!-- Optional: gif เท่ๆ ด้านข้าง -->
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-
-
-<!-- 🐍 CONTRIBUTION SNAKE -->
-<br clear="both" />
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%" />
 
 ---
 
+<!-- 📊 GITHUB STATS -->
+## 📊 GitHub Stats:
 
+<div align="center">
+
+<!-- ภาพรวมภาษา -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surapitttha&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" height="140" />
+
+<!-- สถิติรวมทั้งหมด -->
+<img src="https://github-readme-stats.vercel.app/api?username=surapitttha&theme=radical&include_all_commits=true&count_private=true&hide_border=false" height="140" />
+
+<!-- สถิติ streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surapitttha&theme=radical&hide_border=false" height="140" />
+
+</div>
+
+---
+
+<!-- 🐍 CONTRIBUTION SNAKE -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%" />
+</div>
