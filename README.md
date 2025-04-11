@@ -40,6 +40,21 @@
 
 ---
 
+<!-- 🧑‍💼 INTERNSHIP -->
+### 🧑‍💼 Internship Experience
+
+<div align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUfA3EoBRmcNOz9uYFW-mzcIY6FUh4HqRTig&s" height="40" alt="NCSA Logo" />
+</div>
+
+#### **สำนักงานคณะกรรมการการรักษาความมั่นคงปลอดภัยไซเบอร์แห่งชาติ (สกมช. | NCSA)**
+🌐 [ncsa.or.th](https://www.ncsa.or.th)
+
+- 💻 Assisted in **cybersecurity research & threat intelligence**
+- 🔐 Supported activities on **incident response**, **IoT system evaluation**, and **secure network monitoring**
+- 🧾 Participated in national-level cybersecurity workshops & infrastructure analysis
+- ⚙️ Applied knowledge in Python, cloud computing, and data tools in real-world security operations
+
 <!-- 🧰 TECH STACK -->
 
 ### 🛠️ Tech Stack & Tools
