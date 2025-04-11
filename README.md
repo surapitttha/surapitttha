@@ -36,9 +36,8 @@
   
   <!-- Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="25" alt="GCP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="25" alt="AWS" />
+  <img src="https://image.pngaaa.com/681/876681-middle.png" height="25" alt="AWS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" height="25" alt="Oracle Cloud" />
-
 </div>
 
 ---
