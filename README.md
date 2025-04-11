@@ -66,7 +66,7 @@
   <!-- Embedded & IoT -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="25" alt="Arduino" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="25" alt="Raspberry Pi" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/MQTT_Logo.svg" height="25" alt="MQTT" />
+  <img src="https://cccloudstorage.blob.core.windows.net/images/MQTT%202(1).png" height="25" alt="MQTT" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="Linux" />
 
   <!-- Cloud Platforms -->
