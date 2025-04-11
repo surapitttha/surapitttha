@@ -41,10 +41,10 @@
 ---
 
 <!-- 🧰 TECH STACK -->
-<div align="right">
+<p align="center"><div align="right">
   <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" height="100" />
 </div>
-
+</p>
 ### 🛠️ Tech Stack & Tools
 
 <div align="left">
