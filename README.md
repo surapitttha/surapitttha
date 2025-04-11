@@ -17,6 +17,29 @@
 
 ---
 
+<!-- 📘 ACADEMIC & TECHNICAL BACKGROUND -->
+### 🧠 Academic & Technical Skills
+
+- 🧮 **Programming & Software Development**  
+  General Programming, OOP, Data Structures, Mobile Application Development, and Software Tools for Business and Engineering
+
+- 📡 **IoT & Embedded Systems**  
+  Internet of Things, Cyber-Physical Systems, Microcontrollers, Embedded Systems, IoT Networks, Edge Computing, and AIoT Applications
+
+- ⚙️ **Physics & Electronics**  
+  Mechanics, Modern Physics, Waves and Optics, Thermodynamics, Electromagnetic Fields, Semiconductor Physics, Quantum Mechanics, and Electronics Circuit Design
+
+- 🔐 **Systems & Infrastructure**  
+  Operating Systems, Cybersecurity Systems, Cloud Architecture, Database Systems, and Communication Protocols
+
+- 🧠 **Artificial Intelligence & Machine Learning**  
+  AIoT, Computer Vision, Data Science Tools, and AI Deployment on Cloud Platforms (GCP, AWS, Oracle Cloud)
+
+- 🧩 **Human-Centered Design & Projects**  
+  UI/UX, Interaction Design, Team Projects, Seminars with Professionals, and Digital Intelligence
+
+---
+
 <!-- 🧰 TECH STACK -->
 <div align="right">
   <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" height="100" />
@@ -68,16 +91,9 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-
-<!-- ภาพรวมภาษา -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surapitttha&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" height="140" />
-
-<!-- สถิติรวมทั้งหมด -->
-<img src="https://github-readme-stats.vercel.app/api?username=surapitttha&theme=radical&include_all_commits=true&count_private=true&hide_border=false" height="140" />
-
-<!-- สถิติ streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surapitttha&theme=radical&hide_border=false" height="140" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surapitttha&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=surapitttha&theme=radical&include_all_commits=true&count_private=true&hide_border=false" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surapitttha&theme=radical&hide_border=false" height="140" />
 </div>
 
 ---
