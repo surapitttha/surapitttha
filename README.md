@@ -60,15 +60,21 @@
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="28" />
   </a>
 </div>
----
+<!-- 📊 GITHUB STATS -->
+## 📊 GitHub Stats:
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=MdnadeemSarwar&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MdnadeemSarwar&theme=radical&hide_border=false)
+<!-- ภาพรวมภาษา -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=surapitttha&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- สถิติรวมทั้งหมด -->
+![](https://github-readme-stats.vercel.app/api?username=surapitttha&theme=radical&include_all_commits=true&count_private=true&hide_border=false)
+
+<!-- สถิติ streak -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=surapitttha&theme=radical&hide_border=false)
+
+<!-- Optional: gif เท่ๆ ด้านข้าง -->
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<br/>
----
+
 
 <!-- 🐍 CONTRIBUTION SNAKE -->
 <br clear="both" />
