@@ -89,7 +89,7 @@
 
 ---
 <!-- 🧑‍💼 INTERNSHIP -->
-### 🧑‍💼 Internship Experience
+### 🧑‍💼 Internship 
 
 <div align="left">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUfA3EoBRmcNOz9uYFW-mzcIY6FUh4HqRTig&s" height="250" alt="NCSA Logo" />
