@@ -1,18 +1,18 @@
 <!-- 🖼 HEADER IMAGE -->
 <p align="center">
-  <img src="https://sdmntprukwest.oaiusercontent.com/files/00000000-0c04-6243-9399-429752077848/raw?se=2025-04-11T20%3A56%3A11Z&sp=r&sv=2024-08-04&sr=b&scid=e3025310-7a6d-5eae-bc5e-823d3e365058&skoid=d958ec58-d47c-4d2f-a9f2-7f3e03fdcf72&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-10T22%3A22%3A18Z&ske=2025-04-11T22%3A22%3A18Z&sks=b&skv=2024-08-04&sig=2zG4vQpMojg1IGpTmLziw4x7WhyKIBajF2dMXsL84FQ%3D" height="250" alt="Banner" />
+  <img src="https://sdmntprukwest.oaiusercontent.com/files/00000000-0c04-6243-9399-429752077848/raw?se=2025-04-11T20%3A56%3A11Z&sp=r&sv=2024-08-04&sr=b&scid=e3025310-7a6d-5eae-bc5e-823d3e365058&skoid=d958ec58-d47c-4d2f-a9f2-7f3e03fdcf72&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-10T22%3A22%3A18Z&ske=2025-04-11T22%3A22%3A18Z&sks=b&skv=2024-08-04&sig=2zG4vQpMojg1IGpTmLziw4x7WhyKIBajF2dMXsL84FQ%3D" height="250" alt="Banner" style="border-radius: 12px; box-shadow: 0 0 12px rgba(0,0,0,0.15);" />
 </p>
 
 ---
 
 <!-- 👋 INTRO -->
-<h2 align="left">Hi 👋! My name is Surapit Thaibkhuang</h2>
+<h2 align="left">Hi there 👋 I'm <span style="color:#007acc;">Surapit Thaibkhuang</span></h2>
 
 <p align="left">
-🎓 I'm a student in <strong>IoT & Physics</strong> from Thailand 🇹🇭<br>
-🧠 Passionate about <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Quantum Computing</strong><br>
-☁️ Exploring AI applications on <strong>GCP, AWS, and Oracle Cloud</strong><br>
-🚀 Currently building things with Python & cloud-based ML tools
+📍 A passionate explorer at the intersection of <strong>IoT systems</strong>, <strong>Physics</strong>, and <strong>AI research</strong>.<br>
+🎓 Currently pursuing a dual-degree program in <em>IoT & Information Engineering</em> and <em>Industrial Physics</em> from Thailand 🇹🇭<br>
+🔭 Constantly experimenting with <strong>Machine Learning</strong>, <strong>Quantum Computing</strong>, and real-world cloud deployments.<br>
+🛠️ I believe in <strong>hands-on creation</strong>—from embedded systems to intelligent software—powered by curiosity.
 </p>
 
 ---
