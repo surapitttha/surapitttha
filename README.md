@@ -4,41 +4,44 @@
 </p>
 
 ---
+---
 
-<!-- 👋 INTRO -->
-<h2 align="left">Hi there 👋 I'm <span style="color:#007acc;">Surapit Thaibkhuang</span></h2>
+## 👋 Hi there, I'm **Surapit Thaibkhuang**  
 
-<p align="left">
-📍 A passionate explorer at the intersection of <strong>IoT systems</strong>, <strong>Physics</strong>, and <strong>AI research</strong>.<br>
-🎓 Currently pursuing a dual-degree program in <em>IoT & Information Engineering</em> and <em>Industrial Physics</em> from Thailand 🇹🇭<br>
-🔭 Constantly experimenting with <strong>Machine Learning</strong>, <strong>Quantum Computing</strong>, and real-world cloud deployments.<br>
-🛠️ I believe in <strong>hands-on creation</strong>—from embedded systems to intelligent software—powered by curiosity.
-</p>
+📍 Passionate researcher at the intersection of **IoT systems**, **Industrial Physics**, and **AI-driven solutions**.  
+🎓 Currently pursuing a dual-degree in *IoT & Information Engineering* and *Industrial Physics* from Thailand 🇹🇭  
+🔭 Focusing on machine learning, cybersecurity, and intelligent systems for real-world impact.  
+🛠️ Believes in **hands-on creation**—from embedded systems to AI-powered automation—driven by curiosity and a deep understanding of physics.  
 
 ---
 
-<!-- 📘 ACADEMIC & TECHNICAL BACKGROUND -->
-### 🧠 Academic & Technical Skills
+## 🧠 Academic & Technical Skills  
 
-- 🧮 **Programming & Software Development**  
-  General Programming, OOP, Data Structures, Mobile Application Development, and Software Tools for Business and Engineering
-
-- 📡 **IoT & Embedded Systems**  
-  Internet of Things, Cyber-Physical Systems, Microcontrollers, Embedded Systems, IoT Networks, Edge Computing, and AIoT Applications
-
-- ⚙️ **Physics & Electronics**  
-  Mechanics, Modern Physics, Waves and Optics, Thermodynamics, Electromagnetic Fields, Semiconductor Physics, Quantum Mechanics, and Electronics Circuit Design
-
-- 🔐 **Systems & Infrastructure**  
-  Operating Systems, Cybersecurity Systems, Cloud Architecture, Database Systems, and Communication Protocols
-
-- 🧠 **Artificial Intelligence & Machine Learning**  
-  AIoT, Computer Vision, Data Science Tools, and AI Deployment on Cloud Platforms (GCP, AWS, Oracle Cloud)
-
-- 🧩 **Human-Centered Design & Projects**  
-  UI/UX, Interaction Design, Team Projects, Seminars with Professionals, and Digital Intelligence
+- **Programming & Software Development**  
+  - Python, C++, Java, Mobile Application Development, OOP, Data Structures, Algorithms, Software Tools for Engineering  
+- **IoT & Embedded Systems**  
+  - Cyber-Physical Systems, Microcontrollers, Edge Computing, AIoT Applications, IoT Protocols, and Real-time Systems  
+- **Physics & Electronics**  
+  - Semiconductor Physics, Quantum Mechanics, Thermodynamics, Waves, Electromagnetic Fields, and Electronics Circuit Design  
+- **Systems & Infrastructure**  
+  - Operating Systems, Cybersecurity, Cloud Architecture, Database Systems, and Networking Protocols  
+- **Artificial Intelligence & Machine Learning**  
+  - Computer Vision, Deep Learning, Data Science, GANs, RNNs, CNNs, Data Normalization, and Model Deployment on Cloud Platforms (GCP, AWS)  
+- **Image Processing & Computer Vision**  
+  - Crack Detection, Semantic Segmentation, Feature Extraction, and Generative Models for Civil Engineering and Infrastructure Analysis  
 
 ---
+
+## 📄 Research & Publications  
+
+- **Study on Damage to Flexible Pavement Road in Thailand: Identification Types of Crack on Roads Using Image Processing**  
+  - **Authors**: Vanvisa Chutchavong, Satawat Doungpan, Witchapon Kasettakarn, Surapit Thiabkhuang, Thanapol Phungtua-Eng  
+  - **Conference**: 2025 13th International Electrical Engineering Congress (iEECON)  
+  - **Publisher**: IEEE  
+  - **Focus Areas**: Crack Detection, Image Processing, Machine Learning, Civil Engineering, Semantic Segmentation, GANs, U-Net, Transformer Models  
+
+---
+
 
 
 
