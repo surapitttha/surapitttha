@@ -1,6 +1,6 @@
 <!-- 🖼 HEADER IMAGE -->
 <p align="center">
-  <img src="https://sdmntprukwest.oaiusercontent.com/files/00000000-0c04-6243-9399-429752077848/raw?se=2025-04-11T20%3A56%3A11Z&sp=r&sv=2024-08-04&sr=b&scid=e3025310-7a6d-5eae-bc5e-823d3e365058&skoid=d958ec58-d47c-4d2f-a9f2-7f3e03fdcf72&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-10T22%3A22%3A18Z&ske=2025-04-11T22%3A22%3A18Z&sks=b&skv=2024-08-04&sig=2zG4vQpMojg1IGpTmLziw4x7WhyKIBajF2dMXsL84FQ%3D" height="250" alt="Banner" style="border-radius: 12px; box-shadow: 0 0 12px rgba(0,0,0,0.15);" />
+  <img src="https://i.pinimg.com/736x/87/05/09/870509316726a4d12018bd1c9817d932.jpg" height="250" alt="Banner" style="border-radius: 12px; box-shadow: 0 0 12px rgba(0,0,0,0.15);" />
 </p>
 
 ---
