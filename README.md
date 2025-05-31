@@ -4,44 +4,37 @@
 </p>
 
 ---
----
 
-## 👋 Hi there, I'm **Surapit Thaibkhuang**  
+## 👋 Hey, I'm **Surapit Thaibkhuang**  
 
-📍 Passionate researcher at the intersection of **IoT systems**, **Industrial Physics**, and **AI-driven solutions**.  
-🎓 Currently pursuing a dual-degree in *IoT & Information Engineering* and *Industrial Physics* from Thailand 🇹🇭  
-🔭 Focusing on machine learning, cybersecurity, and intelligent systems for real-world impact.  
-🛠️ Believes in **hands-on creation**—from embedded systems to AI-powered automation—driven by curiosity and a deep understanding of physics.  
-
----
-
-## 🧠 Academic & Technical Skills  
-
-- **Programming & Software Development**  
-  - Python, C++, Java, Mobile Application Development, OOP, Data Structures, Algorithms, Software Tools for Engineering  
-- **IoT & Embedded Systems**  
-  - Cyber-Physical Systems, Microcontrollers, Edge Computing, AIoT Applications, IoT Protocols, and Real-time Systems  
-- **Physics & Electronics**  
-  - Semiconductor Physics, Quantum Mechanics, Thermodynamics, Waves, Electromagnetic Fields, and Electronics Circuit Design  
-- **Systems & Infrastructure**  
-  - Operating Systems, Cybersecurity, Cloud Architecture, Database Systems, and Networking Protocols  
-- **Artificial Intelligence & Machine Learning**  
-  - Computer Vision, Deep Learning, Data Science, GANs, RNNs, CNNs, Data Normalization, and Model Deployment on Cloud Platforms (GCP, AWS)  
-- **Image Processing & Computer Vision**  
-  - Crack Detection, Semantic Segmentation, Feature Extraction, and Generative Models for Civil Engineering and Infrastructure Analysis  
+📍 Passionate researcher at the frontier of **IoT**, **Industrial Physics**, and **AI-driven cybersecurity**.  
+🎓 Currently pursuing a dual-degree in *IoT & Information Engineering* and *Industrial Physics* in Thailand 🇹🇭  
+🛠️ Obsessed with full-stack creation—from embedded systems to cloud-deployed AI—anchored by curiosity and a physicist’s rigor.  
+🔬 Currently building:
+- ⚔️ **Malware Analysis Pipeline** using Sysmon, dynamic behavior tracing, and ML
+- ☁️ **Secure File Collaboration Platform** with IAM SSO, Zero Trust, and automated AWS security stack
 
 ---
 
-## 📄 Research & Publications  
+## 🧠 Technical Focus & Skills
 
-- **Study on Damage to Flexible Pavement Road in Thailand: Identification Types of Crack on Roads Using Image Processing**  
-  - **Authors**: Vanvisa Chutchavong, Satawat Doungpan, Witchapon Kasettakarn, Surapit Thiabkhuang, Thanapol Phungtua-Eng  
-  - **Conference**: 2025 13th International Electrical Engineering Congress (iEECON)  
-  - **Publisher**: IEEE  
-  - **Focus Areas**: Crack Detection, Image Processing, Machine Learning, Civil Engineering, Semantic Segmentation, GANs, U-Net, Transformer Models  
+- **Programming & Dev**: Python, C++, Java, Data Structures, Mobile App Dev, Algorithms  
+- **Embedded & IoT**: Microcontrollers, AIoT, RTOS, Edge Intelligence, Cyber-Physical Systems  
+- **Physics Core**: Semiconductor Physics, Thermodynamics, EM Waves, Quantum Mech  
+- **Cloud & Infrastructure**: AWS, GCP, IAM, S3, EC2, CloudTrail, Docker, Security Hub  
+- **AI & ML**: GNNs, CNNs, RNNs, GANs, Vision Transformers, PyTorch, TensorFlow  
+- **Vision & Imaging**: Crack Detection, Semantic Segmentation, Feature Extraction  
 
 ---
 
+## 📄 Featured Research  
+
+**🛣️ Study on Damage to Flexible Pavement Roads in Thailand**  
+> **Authors**: Vanvisa Chutchavong, Satawat Doungpan, Witchapon Kasettakarn, *Surapit Thaibkhuang*, Thanapol Phungtua-Eng  
+> **Conference**: 2025 IEEE iEECON  
+> **Keywords**: Crack Detection, Image Processing, Civil Engineering, GANs, U-Net, Vision Transformers  
+
+---
 
 
 
@@ -92,19 +85,18 @@
 
 ---
 <!-- 🧑‍💼 INTERNSHIP -->
-### 🧑‍💼 Internship 
+## 🧑‍💼 Internship  
 
-<div align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUfA3EoBRmcNOz9uYFW-mzcIY6FUh4HqRTig&s" height="250" alt="NCSA Logo" />
-</div>
+### **National Cyber Security Agency (NCSA), Thailand**  
+🌐 [ncsa.or.th](https://www.ncsa.or.th)  
 
-#### **สำนักงานคณะกรรมการการรักษาความมั่นคงปลอดภัยไซเบอร์แห่งชาติ (สกมช. | NCSA)**
-🌐 [ncsa.or.th](https://www.ncsa.or.th)
+**Project**: 🦠 *Behavior-based Ransomware Detection using Sysmon Logs*  
+- 🔍 Conducted **dynamic behavior analysis** of malware and ransomware in sandbox environments  
+- 🛡️ Designed a detection pipeline using **Sysmon log telemetry** to extract malicious patterns  
+- ⚙️ Engineered data pipeline from **log parsing → feature extraction → anomaly detection**
+- 🧠 Applied ML techniques to identify and classify ransomware behaviors based on event sequences  
+- 🧾 Integrated cybersecurity insights into **real-world incident response frameworks**  
 
-- 💻 Assisted in **cybersecurity research & threat intelligence**
-- 🔐 Supported activities on **incident response**, **IoT system evaluation**, and **secure network monitoring**
-- 🧾 Participated in national-level cybersecurity workshops & infrastructure analysis
-- ⚙️ Applied knowledge in Python, cloud computing, and data tools in real-world security operations
 <!-- 🔗 SOCIAL LINKS -->
 ---
 ### 📬 Contact Me
